@@ -1,6 +1,6 @@
 ### 无限循环用于运行一组永无休止的重复指令。
 
-## Bash无限While循环
+Bash无限While循环
 无限while循环示例：
 -----------------
 #!/usr/bin/env bash
@@ -12,7 +12,7 @@ echo "Press [CTRL+C] to exit this loop..."
 sleep 2
 done
 -----------------
-## 语法示例:while循环的Unix true命令,true命令的while循环语法示例:
+语法示例:while循环的Unix true命令,true命令的while循环语法示例:
 -----------------
 #!/usr/bin/env bash
 
@@ -23,7 +23,7 @@ echo "Press [CTRL+C] to exit this loop..."
 sleep 2
 done
 -----------------
-## 满足特定条件，中断无限循环语法示例:
+满足特定条件，中断无限循环语法示例:
 -----------------
 #!/usr/bin/env bash
 
